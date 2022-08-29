@@ -1,3 +1,3 @@
 ## Bontempo gianpaolo
 
-mi chiamo gianpaolo bontempo
+Hello and welcome to my personal web site. Actually it is still under construction!
