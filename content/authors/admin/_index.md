@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: University of Pisa and University of Modena
-    date_start: 2016-01-01
-    date_end: Now
+    date_start: 2021-11-01
+    date_end: 2024-11-01
     summary: 
     #button:
     #  text: 'Read Thesis'
