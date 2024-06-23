@@ -73,8 +73,8 @@ work:
     company_name: Italian Institute of Technology
     company_url: 'https://www.iit.it/it/'
     company_logo: 'https://www.iit.it/image/company_logo?img_id=155280&t=1712562226949'
-    date_start: 2020
-    date_end: 2021
+    date_start: 2020-11-01
+    date_end: 2021-10-31
     summary: |2-
       Responsibilities include:
       - Tour guide robot: Deployment of behaviors trees on a robotic system for a museum tour 
@@ -100,10 +100,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
@@ -123,10 +119,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  #- title: Neural Networks and Deep Learning
+  - title:  MICCAI Student Author Registration (STAR) award
   #  url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #  date: '2023-11-25'
-  #  awarder: Coursera
+    date: '2023-10-05'
+    awarder: MICCAI
   #  icon: coursera
   #  summary: |
   #    I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
@@ -136,3 +132,4 @@ awards:
 ## About Me
 
 
+As a dedicated researcher on deep vision, my work focuses on two crucial areas: Weakly object detection and Continual Learning for high-level concept mapping and consistent reasoning.
