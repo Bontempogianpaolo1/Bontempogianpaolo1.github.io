@@ -78,6 +78,14 @@ work:
     summary: |2-
       Responsibilities include:
       - Tour guide robot: Deployment of behaviors trees on a robotic system for a museum tour 
+  - position: Visiting student
+    company_name: DASCI
+    company_url: 'https://dasci.es/es/'
+    company_logo: 'https://www.iit.it/image/company_logo?img_id=155280&t=1712562226949'
+    date_start: 2024-05-01
+    date_end: 2025-10-31
+    summary: |2-
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
