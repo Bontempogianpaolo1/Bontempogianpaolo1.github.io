@@ -40,7 +40,7 @@ summary: In this work we propose Buffer-MIL, which aims at tackling the covariat
 
 tags:
   - MIL
-  - Covariance shift
+  - Histology
 
 # Display this page in the Featured widget?
 featured: false
