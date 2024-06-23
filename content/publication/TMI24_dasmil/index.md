@@ -1,13 +1,13 @@
 ---
-title: 'DAS-MIL: Distilling Across Scales for MIL Classification of Histological WSIs'
+title: 'A Graph-Based Multi-Scale Approach With Knowledge Distillation for WSI Classification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Angelo Porrello
   - Federico Bolelli
+  - Angelo Porrello
   - Simone Calderara
   - Elisa Ficarra 
 
