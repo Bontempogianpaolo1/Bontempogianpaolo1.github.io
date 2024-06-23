@@ -71,15 +71,13 @@ education:
 work:
   - position: Research Fellow
     company_name: Italian Institute of Technology
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.iit.it/it/'
+    company_logo: 'https://www.iit.it/image/company_logo?img_id=155280&t=1712562226949'
     date_start: 2020
     date_end: 2021
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Tour guide robot: Deployment of behaviors trees on a robotic system for a museum tour 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -94,7 +92,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
         percent: 40
         icon: circle-stack
@@ -117,9 +115,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
   - name: Italian
-    percent: 75
 
 
 # Awards.
