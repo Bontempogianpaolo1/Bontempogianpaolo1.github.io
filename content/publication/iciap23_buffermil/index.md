@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Image Analysis and Processing 2023
-publication_short: In *ICW*
+publication_short: In *ICIAP*
 
 abstract: Histopathological image analysis is a critical area of research with the potential to aid pathologists in faster and more accurate diagnoses. However, Whole-Slide Images (WSIs) present challenges for deep learning frameworks due to their large size and lack of pixel-level annotations. Multi-Instance Learning (MIL) is a popular approach that can be employed for handling WSIs, treating each slide as a bag composed of multiple patches or instances. In this work we propose Buffer-MIL, which aims at tackling the covariate shift and class imbalance characterizing most of the existing histopathological datasets. With this goal, a buffer containing the most representative instances of each disease-positive slide of the training set is incorporated into our model. An attention mechanism is then used to compare all the instances against the buffer, to find the most critical ones in a given slide. We evaluate Buffer-MIL on two publicly available WSI datasets, Camelyon16 and TCGA lung cancer, outperforming current state-of-the-art models by 2.2% of accuracy on Camelyon16.
 

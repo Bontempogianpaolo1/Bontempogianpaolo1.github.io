@@ -6,11 +6,13 @@ title: 'Enhancing PFI Prediction with GDS-MIL: A Graph-based Dual Stream MIL App
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Luca Lumetti
-  - Angelo Porrello
+  - Nicola Bartolini
+  - Marta Lovino
   - Federico Bolelli
-  - Simone Calderara
+  - Federico Bolelli
+  - Anni Virtanen
   - Elisa Ficarra
+
 
 # Author notes (optional)
 author_notes:
@@ -31,7 +33,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In Image Analysis and Processing 2023
-publication_short: In *ICW*
+publication_short: In *ICIAP*
 
 abstract: Whole-Slide Images (WSI) are emerging as a promising resource for studying biological tissues, demonstrating a great potential in aiding cancer diagnosis and improving patient treatment. However, the manual pixel-level annotation of WSIs is extremely time-consuming and practically unfeasible in real-world scenarios. Multi-Instance Learning (MIL) have gained attention as a weakly supervised approach able to address lack of annotation tasks. MIL models aggregate patches (e.g., cropping of a WSI) into bag-level representations (e.g., WSI label), but neglect spatial information of the WSIs, crucial for histological analysis. In the High-Grade Serous Ovarian Cancer (HGSOC) context, spatial information is essential to predict a prognosis indicator (the Platinum-Free Interval, PFI) from WSIs. Such a prediction would bring highly valuable insights both for patient treatment and prognosis of chemotherapy resistance. Indeed, NeoAdjuvant ChemoTherapy (NACT) induces changes in tumor tissue morphology and composition, making the prediction of PFI from WSIs extremely challenging. In this paper, we propose GDS-MIL, a method that integrates a state-of-the-art MIL model with a Graph ATtention layer (GAT in short) to inject a local context into each instance before MIL aggregation. Our approach achieves a significant improvement in accuracy on the “Ome18” PFI dataset. In summary, this paper presents a novel solution for enhancing PFI prediction in HGSOC, with the potential of significantly improving treatment decisions and patient outcomes.
 
