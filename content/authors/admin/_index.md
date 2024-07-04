@@ -139,11 +139,11 @@ awards:
 
 ## About Me
 
-My name is Bontempo Gianpaolo. I am an PhD student enrolled in the national Doctorate in Artificial Intelligence program at the AImageLab research group of the University of Modena and Reggio Emilia 🇮🇹, under the supervision of Prof. Elisa Ficarra, Prof. Simone Calderara and Prof. Natalia Diaz Rodriguez. I am engaged in studying and developing novel Deep Learning and Computer Vision techniques.
+My name is Bontempo Gianpaolo. I am an PhD student enrolled in the national Doctorate in [Artificial Intelligence](https://www.phd-ai.it/) at the [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group of the University of Modena and Reggio Emilia 🇮🇹, under the supervision of Prof. [Elisa Ficarra](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=131), Prof. [Simone Calderara](https://personale.unimore.it/Rubrica/Dettaglio/calderara) and Prof. [Natalia Diaz Rodriguez](https://nataliadiaz.github.io/). I am engaged in studying and developing novel **Deep Learning and Computer Vision techniques**.
 
-I am currently a Machine Learning Engineering visiting student at DASCII in Granada, Spain, working on Explainability and continual learning.
+I am currently a Machine Learning Engineering visiting student at [DASCII](https://dasci.es/es/) in Granada, Spain, working on **Explainability** and **continual learning**.
 
 
-Prior to joining AImageLab, I was Research fellow at Italian Institute of Technology in Genova, IT, working on developing behaviour trees for robotic assistant.
+Prior to joining AImageLab, I was Research fellow at Italian Institute of Technology in Genova, IT, working on developing **behaviour trees** for robotic assistant.
 
 Feel free to reach me out if you have any questions or curiosities! :)
