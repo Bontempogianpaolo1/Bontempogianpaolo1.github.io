@@ -83,7 +83,7 @@ work:
     company_url: 'https://dasci.es/es/'
     company_logo: 'https://www.iit.it/image/company_logo?img_id=155280&t=1712562226949'
     date_start: 2024-05-01
-    date_end: 2025-10-31
+    date_end: 2024-11-31
     summary: |2-
       
 
