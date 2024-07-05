@@ -76,8 +76,7 @@ work:
     date_start: 2020-11-01
     date_end: 2021-10-31
     summary: |2-
-      Responsibilities include:
-      - Tour guide robot: Deployment of behaviors trees on a robotic system for a museum tour 
+      Tour guide robot: Deployment of behaviors trees on a robotic system for a museum tour 
   - position: Visiting student
     company_name: DASCI
     company_url: 'https://dasci.es/es/'
@@ -139,11 +138,7 @@ awards:
 
 ## About Me
 
-My name is Bontempo Gianpaolo. I am an PhD student enrolled in the national Doctorate in [Artificial Intelligence](https://www.phd-ai.it/) at the [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group of the University of Modena and Reggio Emilia 🇮🇹, under the supervision of Prof. [Elisa Ficarra](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=131), Prof. [Simone Calderara](https://personale.unimore.it/Rubrica/Dettaglio/calderara) and Prof. [Natalia Diaz Rodriguez](https://nataliadiaz.github.io/). I am engaged in studying and developing novel **Deep Learning and Computer Vision techniques**.
-
-I am currently a Machine Learning Engineering visiting student at [DASCII](https://dasci.es/es/) in Granada, Spain, working on **Explainability** and **continual learning**.
-
-
-Prior to joining AImageLab, I was Research fellow at Italian Institute of Technology in Genova, IT, working on developing **behaviour trees** for robotic assistant.
-
-Feel free to reach me out if you have any questions or curiosities! :)
+My name is Bontempo Gianpaolo, and I am a PhD student in the national Doctorate in  [Artificial Intelligence](https://www.phd-ai.it/) at the [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group of the University of Modena and Reggio Emilia 🇮🇹. I am working under the supervision of Prof. [Elisa Ficarra](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=131), Prof. [Simone Calderara](https://personale.unimore.it/Rubrica/Dettaglio/calderara), and Prof. [Natalia Diaz Rodriguez](https://nataliadiaz.github.io/). My research focuses on developing innovative **Deep Learning** and **Computer Vision** techniques.
+Currently, I am a visiting student in Machine Learning Engineering at [DASCII](https://dasci.es/es/) in Granada, Spain, where I am working on **Explainability** and **Continual Learning**.
+Before joining AImageLab, I was a Research Fellow at the Italian Institute of Technology in Genova,  🇮🇹, where I developed behavior trees for robotic assistants.
+Feel free to contact me with any questions or curiosities! 😊
